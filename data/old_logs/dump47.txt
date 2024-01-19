@@ -1,0 +1,101 @@
+47
+[15.01.24 20:38:58]: Би finished
+[15.01.24 20:38:58]: Р.Я. finished
+[15.01.24 20:38:58]: И.Б. finished
+[15.01.24 20:48:51]: [{'day_name': 'monday'}, {'lesson_name': 'ДП', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'ФК', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'Фи', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Ма', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Би', 'start_time': '13:00', 'finish_time': '13:45'}, {'lesson_name': 'Б.Я', 'start_time': '14:00', 'finish_time': '14:45'}]
+[15.01.24 20:48:52]: ДП finished
+[15.01.24 20:48:52]: Ма finished
+[15.01.24 20:48:52]: ФК finished
+[15.01.24 20:48:52]: Фи finished
+[15.01.24 20:48:52]: Ма finished
+[15.01.24 20:48:52]: Би finished
+[15.01.24 20:48:52]: Б.Я finished
+[15.01.24 21:14:12]: day 0 started
+[15.01.24 21:14:12]: [{'day_name': 'monday'}, {'lesson_name': 'ДП', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'ФК', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'Фи', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Ма', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Би', 'start_time': '13:00', 'finish_time': '13:45'}, {'lesson_name': 'Б.Я', 'start_time': '14:00', 'finish_time': '14:45'}]
+[15.01.24 21:14:12]: ДП finished
+[15.01.24 21:14:12]: Ма finished
+[15.01.24 21:14:12]: ФК finished
+[15.01.24 21:14:13]: Фи finished
+[15.01.24 21:14:13]: Ма finished
+[15.01.24 21:14:17]: Би finished
+[15.01.24 21:14:18]: Б.Я finished
+[15.01.24 21:16:49]: day 0 started
+[15.01.24 21:16:49]: [{'day_name': 'monday'}, {'lesson_name': 'ДП', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'ФК', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'Фи', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Ма', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Би', 'start_time': '13:00', 'finish_time': '13:45'}, {'lesson_name': 'Б.Я', 'start_time': '14:00', 'finish_time': '14:45'}]
+[15.01.24 21:16:51]: ДП finished
+[15.01.24 21:16:52]: Ма finished
+[15.01.24 21:16:52]: ФК finished
+[15.01.24 21:16:54]: Фи finished
+[15.01.24 21:16:54]: Ма finished
+[15.01.24 21:16:57]: Би finished
+[15.01.24 21:16:58]: Б.Я finished
+[16.01.24 00:00:16]: day 1 started
+[16.01.24 00:00:16]: [{'day_name': 'thuesday'}, {'lesson_name': 'А', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'Ма', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'ЧЗС', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Хи', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Фи', 'start_time': '13:00', 'finish_time': '13:45'}]
+[16.01.24 08:40:01]: А finished
+[16.01.24 09:40:01]: Ма finished
+[16.01.24 10:40:01]: Ма finished
+[16.01.24 11:40:01]: ЧЗС finished
+[16.01.24 12:40:01]: Хи finished
+[16.01.24 13:40:01]: Фи finished
+[17.01.24 00:00:10]: day 2 started
+[17.01.24 00:00:10]: [{'day_name': 'wednesday'}, {'lesson_name': 'Хи', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'Общ.', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'Б.Л.', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Би', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Р.Я.', 'start_time': '13:00', 'finish_time': '13:45'}, {'lesson_name': 'И.Б.', 'start_time': '14:00', 'finish_time': '14:45'}]
+[17.01.24 08:40:01]: Хи finished
+[17.01.24 09:40:01]: Ма finished
+[17.01.24 10:40:01]: Общ. finished
+[17.01.24 11:40:01]: Б.Л. finished
+[17.01.24 12:40:01]: Би finished
+[17.01.24 13:40:01]: Р.Я. finished
+[17.01.24 14:40:02]: И.Б. finished
+[17.01.24 15:45:39]: day 0 started
+[17.01.24 15:45:39]: [{'day_name': 'monday'}, {'lesson_name': 'ДП', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'ФК', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'Фи', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Ма', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Би', 'start_time': '13:00', 'finish_time': '13:45'}, {'lesson_name': 'Б.Я', 'start_time': '14:00', 'finish_time': '14:45'}]
+[17.01.24 15:45:39]: ДП finished
+[17.01.24 15:45:39]: Ма finished
+[17.01.24 15:45:39]: ФК finished
+[17.01.24 15:45:40]: Фи finished
+[17.01.24 15:45:40]: Ма finished
+[17.01.24 15:45:40]: Би finished
+[17.01.24 15:45:47]: Б.Я finished
+[17.01.24 15:48:59]: day 0 started
+[17.01.24 15:48:59]: [{'day_name': 'monday'}, {'lesson_name': 'ДП', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'ФК', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'Фи', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Ма', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Би', 'start_time': '13:00', 'finish_time': '13:45'}, {'lesson_name': 'Б.Я', 'start_time': '14:00', 'finish_time': '14:45'}]
+[17.01.24 15:48:59]: ДП finished
+[17.01.24 15:48:59]: Ма finished
+[17.01.24 15:48:59]: ФК finished
+[17.01.24 15:48:59]: Фи finished
+[17.01.24 15:48:59]: Ма finished
+[17.01.24 15:49:00]: Би finished
+[17.01.24 15:49:00]: Б.Я finished
+[17.01.24 15:54:00]: day 1 started
+[17.01.24 15:54:00]: [{'day_name': 'thuesday'}, {'lesson_name': 'А', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'Ма', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'ЧЗС', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Хи', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Фи', 'start_time': '13:00', 'finish_time': '13:45'}]
+[17.01.24 15:54:00]: А finished
+[17.01.24 15:54:01]: Ма finished
+[17.01.24 15:54:01]: Ма finished
+[17.01.24 15:54:01]: ЧЗС finished
+[17.01.24 15:54:01]: Хи finished
+[17.01.24 15:54:01]: Фи finished
+[17.01.24 15:59:02]: day 2 started
+[17.01.24 15:59:02]: [{'day_name': 'wednesday'}, {'lesson_name': 'Хи', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'Общ.', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'Б.Л.', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Би', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Р.Я.', 'start_time': '13:00', 'finish_time': '13:45'}, {'lesson_name': 'И.Б.', 'start_time': '14:00', 'finish_time': '14:45'}]
+[17.01.24 15:59:02]: Хи finished
+[17.01.24 15:59:02]: Ма finished
+[17.01.24 15:59:02]: Общ. finished
+[17.01.24 15:59:02]: Б.Л. finished
+[17.01.24 15:59:03]: Би finished
+[17.01.24 15:59:03]: Р.Я. finished
+[17.01.24 15:59:03]: И.Б. finished
+[17.01.24 16:07:46]: day 2 started
+[17.01.24 16:07:46]: [{'day_name': 'wednesday'}, {'lesson_name': 'Хи', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'Общ.', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'Б.Л.', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Би', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Р.Я.', 'start_time': '13:00', 'finish_time': '13:45'}, {'lesson_name': 'И.Б.', 'start_time': '14:00', 'finish_time': '14:45'}]
+[17.01.24 16:07:46]: Хи finished
+[17.01.24 16:07:47]: Ма finished
+[17.01.24 16:07:47]: Общ. finished
+[17.01.24 16:07:47]: Б.Л. finished
+[17.01.24 16:07:48]: Би finished
+[17.01.24 16:07:48]: Р.Я. finished
+[17.01.24 16:07:48]: И.Б. finished
+[17.01.24 16:12:59]: day 2 started
+[17.01.24 16:12:59]: [{'day_name': 'wednesday'}, {'lesson_name': 'Хи', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'Общ.', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'Б.Л.', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Би', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Р.Я.', 'start_time': '13:00', 'finish_time': '13:45'}, {'lesson_name': 'И.Б.', 'start_time': '14:00', 'finish_time': '14:45'}]
+[17.01.24 16:12:59]: Хи finished
+[17.01.24 16:12:59]: Ма finished
+[17.01.24 16:12:59]: Общ. finished
+[17.01.24 16:13:00]: Б.Л. finished
+[17.01.24 16:13:00]: Би finished
+[17.01.24 16:13:00]: Р.Я. finished
+[17.01.24 16:13:00]: И.Б. finished
+[17.01.24 16:15:25]: day 2 started

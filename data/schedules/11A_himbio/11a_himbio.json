@@ -1,0 +1,115 @@
+{
+    "schedule": [
+        [
+            "monday",
+            {
+                "lesson_name": "ДП"
+            },
+            {
+                "lesson_name": "Ма"
+            },
+            {
+                "lesson_name": "ФК"
+            },
+            {
+                "lesson_name": "Фи"
+            },
+            {
+                "lesson_name": "Би"
+            },
+            {
+                "lesson_name": "Би"
+            },
+            {
+                "lesson_name": "Б.Я"
+            }
+        ],
+        [
+            "thuesday",
+            {
+                "lesson_name": "А"
+            },
+            {
+                "lesson_name": "Ма"
+            },
+            {
+                "lesson_name": "Хи"
+            },
+            {
+                "lesson_name": "ЧЗС"
+            },
+            {
+                "lesson_name": "Хи"
+            },
+            {
+                "lesson_name": "Фи"
+            }
+        ],
+        [
+            "wednesday",
+            {
+                "lesson_name": "Хи"
+            },
+            {
+                "lesson_name": "Ма"
+            },
+            {
+                "lesson_name": "Общ."
+            },
+            {
+                "lesson_name": "Б.Л."
+            },
+            {
+                "lesson_name": "Би"
+            },
+            {
+                "lesson_name": "Р.Я."
+            },
+            {
+                "lesson_name": "И.Б."
+            }
+        ],
+        [
+            "thursday",
+            {
+                "lesson_name": "Р.Л."
+            },
+            {
+                "lesson_name": "Р.Я."
+            },
+            {
+                "lesson_name": "Хи"
+            },
+            {
+                "lesson_name": "Би"
+            },
+            {
+                "lesson_name": "Астр"
+            },
+            {
+                "lesson_name": "Ма"
+            }
+        ],
+        [
+            "friday",
+            {
+                "lesson_name": "В.И."
+            },
+            {
+                "lesson_name": "Ин"
+            },
+            {
+                "lesson_name": "Б.Л."
+            },
+            {
+                "lesson_name": "Гео."
+            },
+            {
+                "lesson_name": "ФК"
+            },
+            {
+                "lesson_name": "А"
+            }
+        ]
+    ]
+}

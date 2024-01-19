@@ -1,0 +1,184 @@
+{
+    "schedule": [
+        [
+            "monday",
+            {
+                "lesson_name": "ДП",
+                "start_time": "8:00",
+                "finish_time": "8:45"
+            },
+            {
+                "lesson_name": "Ма",
+                "start_time": "9:00",
+                "finish_time": "9:45"
+            },
+            {
+                "lesson_name": "ФК",
+                "start_time": "10:00",
+                "finish_time": "10:45"
+            },
+            {
+                "lesson_name": "Фи",
+                "start_time": "11:00",
+                "finish_time": "11:45"
+            },
+            {
+                "lesson_name": "Ма",
+                "start_time": "12:00",
+                "finish_time": "12:45"
+            },
+            {
+                "lesson_name": "Би",
+                "start_time": "13:00",
+                "finish_time": "13:45"
+            },
+            {
+                "lesson_name": "Б.Я",
+                "start_time": "14:00",
+                "finish_time": "14:45"
+            }
+        ],
+        [
+            "thuesday",
+            {
+                "lesson_name": "А",
+                "start_time": "8:00",
+                "finish_time": "8:45"
+            },
+            {
+                "lesson_name": "Ма",
+                "start_time": "9:00",
+                "finish_time": "9:45"
+            },
+            {
+                "lesson_name": "Ма",
+                "start_time": "10:00",
+                "finish_time": "10:45"
+            },
+            {
+                "lesson_name": "ЧЗС",
+                "start_time": "11:00",
+                "finish_time": "11:45"
+            },
+            {
+                "lesson_name": "Хи",
+                "start_time": "12:00",
+                "finish_time": "12:45"
+            },
+            {
+                "lesson_name": "Фи",
+                "start_time": "13:00",
+                "finish_time": "13:45"
+            }
+        ],
+        [
+            "wednesday",
+            {
+                "lesson_name": "Хи",
+                "start_time": "8:00",
+                "finish_time": "8:45"
+            },
+            {
+                "lesson_name": "Ма",
+                "start_time": "9:00",
+                "finish_time": "9:45"
+            },
+            {
+                "lesson_name": "Общ.",
+                "start_time": "10:00",
+                "finish_time": "10:45"
+            },
+            {
+                "lesson_name": "Б.Л.",
+                "start_time": "11:00",
+                "finish_time": "11:45"
+            },
+            {
+                "lesson_name": "Би",
+                "start_time": "12:00",
+                "finish_time": "12:45"
+            },
+            {
+                "lesson_name": "Р.Я.",
+                "start_time": "13:00",
+                "finish_time": "13:45"
+            },
+            {
+                "lesson_name": "И.Б.",
+                "start_time": "14:00",
+                "finish_time": "14:45"
+            }
+        ],
+        [
+            "thursday",
+            {
+                "lesson_name": "Р.Л.",
+                "start_time": "8:00",
+                "finish_time": "8:45"
+            },
+            {
+                "lesson_name": "Р.Я.",
+                "start_time": "9:00",
+                "finish_time": "9:45"
+            },
+            {
+                "lesson_name": "Фи",
+                "start_time": "10:00",
+                "finish_time": "10:45"
+            },
+            {
+                "lesson_name": "Инф час",
+                "start_time": "11:00",
+                "finish_time": "11:20"
+            },
+            {
+                "lesson_name": "Фи",
+                "start_time": "11:30",
+                "finish_time": "12:15"
+            },
+            {
+                "lesson_name": "Астр",
+                "start_time": "12:30",
+                "finish_time": "13:15"
+            },
+            {
+                "lesson_name": "Ма",
+                "start_time": "13:30",
+                "finish_time": "14:15"
+            }
+        ],
+        [
+            "friday",
+            {
+                "lesson_name": "В.И.",
+                "start_time": "8:00",
+                "finish_time": "8:45"
+            },
+            {
+                "lesson_name": "Ин",
+                "start_time": "9:00",
+                "finish_time": "9:45"
+            },
+            {
+                "lesson_name": "Б.Л.",
+                "start_time": "10:00",
+                "finish_time": "10:45"
+            },
+            {
+                "lesson_name": "Гео.",
+                "start_time": "11:00",
+                "finish_time": "11:45"
+            },
+            {
+                "lesson_name": "ФК",
+                "start_time": "12:00",
+                "finish_time": "12:45"
+            },
+            {
+                "lesson_name": "А",
+                "start_time": "13:00",
+                "finish_time": "13:45"
+            }
+        ]
+    ]
+}
