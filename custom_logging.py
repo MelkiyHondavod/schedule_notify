@@ -1,5 +1,5 @@
 import time
-import os
+#import os
 
 def log( string, end='\n', log_file_path="C:\\Users\\nikita\\Desktop\\save\\PyLol\\TimeTable11A\\data", file_name ="log.txt",     lines_lim = 100 ):
 
