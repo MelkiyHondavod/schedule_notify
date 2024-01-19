@@ -1,2 +1,2 @@
 class ProjectPath:
-    path = R"C:\\Users\\nikita\\Desktop\\save\\PyLol\\TimeTable11A\\data"
+    path = "my_data"#R"C:\\Users\\nikita\\Desktop\\save\\PyLol\\TimeTable11A\\my_data"

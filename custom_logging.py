@@ -1,7 +1,7 @@
 import time
 #import os
 
-def log( string, end='\n', log_file_path="C:\\Users\\nikita\\Desktop\\save\\PyLol\\TimeTable11A\\data", file_name ="log.txt",     lines_lim = 100 ):
+def log( string, end='\n', log_file_path="my_data", file_name ="log.txt",     lines_lim = 100 ):
 
 
     with open( f"{log_file_path}\\{file_name}", 'r+', encoding='utf-8' ) as f:

@@ -49,7 +49,7 @@ def day( schedule_dict, day_int ):#day( schedule_list, schedule_dict, day_int ):
     queue = schedule_list[1::]
 
     #compile schedule
-    wait( "7:00" )
+    wait( "7:00" ) #FIXME: potentialy dangerous if schedule would have smth befor this time
 
     """schedule_text = f"{day_name}\n"
     for l in queue:
