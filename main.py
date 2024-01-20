@@ -105,7 +105,7 @@ def day( schedule_dict, day_int ):#day( schedule_list, schedule_dict, day_int ):
             moment = False
 
 
-def week( start_week_day=1, finish_week_day=5 ):
+def week( start_week_day=1, finish_week_day=6 ):
 
     schedule_file = open( fR"{pp.path}/schedules/11A_fizmat/11a_fizmat.json", 'r', encoding='utf-8' )
     schedule_dict = json.load( schedule_file )
@@ -118,12 +118,17 @@ def week( start_week_day=1, finish_week_day=5 ):
         print(f"day {d} started")
         log(f"day {d} started")        
 
-        #monday_int = 0
-        day_schedule_list = schedule_dict[ "schedule" ][ d ]
 
-        log( day_schedule_list )
+        cur_d = time.localtime(time.time()).tm_wday #FIXME: just for dev
+        if cur_d < 5 :
+            day( schedule_dict, day_int=d ) #day( day_schedule_list, schedule_dict, day_int=d )
+            #monday_int = 0
+            day_schedule_list = schedule_dict[ "schedule" ][ d ]
 
-        day( schedule_dict, day_int=d ) #day( day_schedule_list, schedule_dict, day_int=d )
+            log( day_schedule_list )
+        
+        elif cur_d==d:
+            say( f"shalom, d = {d}" )
 
 
 
@@ -154,6 +159,7 @@ def main():
     while True:
         print("start week")
         week()
+        time.sleep(5)
 
 
 if __name__=="__main__":
