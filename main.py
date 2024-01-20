@@ -107,7 +107,7 @@ def day( schedule_dict, day_int ):#day( schedule_list, schedule_dict, day_int ):
 
 def week( start_week_day=1, finish_week_day=5 ):
 
-    schedule_file = open( fR"{pp.path}\schedules\11A_fizmat\11a_fizmat.json", 'r', encoding='utf-8' )
+    schedule_file = open( fR"{pp.path}/schedules/11A_fizmat/11a_fizmat.json", 'r', encoding='utf-8' )
     schedule_dict = json.load( schedule_file )
     schedule_file.close()
 
@@ -129,7 +129,7 @@ def week( start_week_day=1, finish_week_day=5 ):
 
 def monday():
 
-    schedule_file = open( fR"{pp.path}\schedules\11A_fizmat\11a_fizmat.json", 'r', encoding='utf-8' )
+    schedule_file = open( fR"{pp.path}/schedules/11A_fizmat/11a_fizmat.json", 'r', encoding='utf-8' )
     schedule_dict = json.load( schedule_file )
     schedule_file.close()
 
