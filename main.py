@@ -128,6 +128,7 @@ def week( start_week_day=1, finish_week_day=6 ):
         else:
             print("skiped")
             log("skiped")    
+            ####
         
 
 
