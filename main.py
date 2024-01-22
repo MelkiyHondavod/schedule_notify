@@ -118,17 +118,17 @@ def week( start_week_day=1, finish_week_day=6 ):
         print(f"day {d} started")
         log(f"day {d} started")        
 
-
-        cur_d = time.localtime(time.time()).tm_wday #FIXME: just for dev
-        if cur_d < 5 :
+        if time.localtime(time.time()).tm_wday == d:
             day( schedule_dict, day_int=d ) #day( day_schedule_list, schedule_dict, day_int=d )
             #monday_int = 0
             day_schedule_list = schedule_dict[ "schedule" ][ d ]
 
             log( day_schedule_list )
+
+        else:
+            print("skiped")
+            log("skiped")    
         
-        elif cur_d==d:
-            say( f"shalom, d = {d}" )
 
 
 
@@ -159,7 +159,7 @@ def main():
     while True:
         print("start week")
         week()
-        time.sleep(5)
+        #time.sleep(5)
 
 
 if __name__=="__main__":

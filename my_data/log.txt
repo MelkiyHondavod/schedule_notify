@@ -40,3 +40,44 @@
 [20.01.24 17:40:16]: day 3 started
 [20.01.24 17:40:16]: day 4 started
 [20.01.24 17:40:16]: day 5 started
+[21.01.24 23:59:43]: day 0 started
+[21.01.24 23:59:43]: day 1 started
+[21.01.24 23:59:43]: day 2 started
+[21.01.24 23:59:43]: day 3 started
+[21.01.24 23:59:43]: day 4 started
+[21.01.24 23:59:43]: day 5 started
+[21.01.24 23:59:48]: day 0 started
+[21.01.24 23:59:48]: day 1 started
+[21.01.24 23:59:48]: day 2 started
+[21.01.24 23:59:48]: day 3 started
+[21.01.24 23:59:48]: day 4 started
+[21.01.24 23:59:48]: day 5 started
+[21.01.24 23:59:53]: day 0 started
+[21.01.24 23:59:53]: day 1 started
+[21.01.24 23:59:53]: day 2 started
+[21.01.24 23:59:53]: day 3 started
+[21.01.24 23:59:53]: day 4 started
+[21.01.24 23:59:53]: day 5 started
+[21.01.24 23:59:58]: day 0 started
+[21.01.24 23:59:58]: day 1 started
+[21.01.24 23:59:58]: day 2 started
+[21.01.24 23:59:58]: day 3 started
+[21.01.24 23:59:58]: day 4 started
+[21.01.24 23:59:58]: day 5 started
+[22.01.24 00:00:03]: day 0 started
+[22.01.24 00:00:37]: day 0 started
+[22.01.24 10:01:18]: ДП finished
+[22.01.24 10:01:19]: Ма finished
+[22.01.24 00:02:52]: day 0 started
+[22.01.24 00:03:02]: day 0 started
+[22.01.24 08:40:01]: ДП finished
+[22.01.24 09:40:01]: Ма finished
+[22.01.24 10:40:01]: ФК finished
+[22.01.24 11:40:01]: Фи finished
+[22.01.24 12:40:01]: Ма finished
+[22.01.24 13:40:01]: Би finished
+[22.01.24 14:45:01]: Б.Я finished
+[22.01.24 14:45:01]: [{'day_name': 'monday'}, {'lesson_name': 'ДП', 'start_time': '8:00', 'finish_time': '8:45'}, {'lesson_name': 'Ма', 'start_time': '9:00', 'finish_time': '9:45'}, {'lesson_name': 'ФК', 'start_time': '10:00', 'finish_time': '10:45'}, {'lesson_name': 'Фи', 'start_time': '11:00', 'finish_time': '11:45'}, {'lesson_name': 'Ма', 'start_time': '12:00', 'finish_time': '12:45'}, {'lesson_name': 'Би', 'start_time': '13:00', 'finish_time': '13:45'}, {'lesson_name': 'Б.Я', 'start_time': '14:00', 'finish_time': '14:45'}]
+[23.01.24 00:01:06]: day 1 started
+[23.01.24 01:04:36]: day 0 started
+[23.01.24 01:04:36]: day 1 started
